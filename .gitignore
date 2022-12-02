@@ -1,3 +1,7 @@
+#AOC inputs:
+input*.txt
+ex*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
